@@ -39,7 +39,7 @@
                          ▓████▓                        
                           ▒██▒                         
                            ░░                          
-                           .                           
+                                                      
 ```
 
 **Builder of things. Wharton. Naval Aviator.**
