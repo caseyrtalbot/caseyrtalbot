@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="32" viewBox="0 0 480 32">
+  <style>
+    text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+      font-size: 14px;
+      font-weight: 600;
+      letter-spacing: 0.5px;
+      fill: #24292f;
+    }
+    @media (prefers-color-scheme: dark) {
+      text { fill: #e6edf3; }
+    }
+  </style>
+  <text x="50%" y="20" text-anchor="middle">Builder of things. Wharton. Naval Aviator.</text>
+</svg>

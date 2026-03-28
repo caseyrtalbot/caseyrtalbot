@@ -42,6 +42,8 @@
                                                       
 ```
 
-**Builder of things. Wharton. Naval Aviator.**
+<img src="./assets/divider.svg" alt="" width="480"/>
+
+<img src="./assets/tagline.svg" alt="Builder of things. Wharton. Naval Aviator." width="480"/>
 
 </div>

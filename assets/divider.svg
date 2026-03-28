@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="16" viewBox="0 0 480 16">
+  <style>
+    .line { stroke: #57606a; stroke-width: 0.5; }
+    .dot { fill: #57606a; }
+    .star { fill: #57606a; }
+    @media (prefers-color-scheme: dark) {
+      .line { stroke: #484f58; }
+      .dot { fill: #484f58; }
+      .star { fill: #484f58; }
+    }
+  </style>
+  <line class="line" x1="40" y1="8" x2="208" y2="8"/>
+  <circle class="dot" cx="216" cy="8" r="1.2"/>
+  <circle class="dot" cx="228" cy="5" r="0.8"/>
+  <polygon class="star" points="240,3 241.5,6.5 245,7 242,9.5 243,13 240,11 237,13 238,9.5 235,7 238.5,6.5"/>
+  <circle class="dot" cx="252" cy="5" r="0.8"/>
+  <circle class="dot" cx="264" cy="8" r="1.2"/>
+  <line class="line" x1="272" y1="8" x2="440" y2="8"/>
+</svg>
